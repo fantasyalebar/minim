@@ -12,7 +12,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Contact; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/padawan/Documents/reactapps/minim/components/Contact.tsx";
+var _jsxFileName = "/home/alex/Documents/wcs-data/moi/wine-website/minim/components/Contact.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 function Contact() {
@@ -74,7 +74,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export (binding) */ __webpack_require__.d(__webpack_exports__, "default", function() { return Footer; });
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
-var _jsxFileName = "/home/padawan/Documents/reactapps/minim/components/Footer.tsx";
+var _jsxFileName = "/home/alex/Documents/wcs-data/moi/wine-website/minim/components/Footer.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 function Footer() {
@@ -117,7 +117,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/link */ "./node_modules/next/link.js");
 /* harmony import */ var next_link__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_link__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/padawan/Documents/reactapps/minim/components/Header.tsx";
+var _jsxFileName = "/home/alex/Documents/wcs-data/moi/wine-website/minim/components/Header.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -214,7 +214,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! next/router */ "./node_modules/next/dist/client/router.js");
 /* harmony import */ var next_router__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(next_router__WEBPACK_IMPORTED_MODULE_1__);
-var _jsxFileName = "/home/padawan/Documents/reactapps/minim/components/Product.tsx";
+var _jsxFileName = "/home/alex/Documents/wcs-data/moi/wine-website/minim/components/Product.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -295,7 +295,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! react */ "./node_modules/react/index.js");
 /* harmony import */ var react__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(react__WEBPACK_IMPORTED_MODULE_0__);
 /* harmony import */ var _Product__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./Product */ "./components/Product.tsx");
-var _jsxFileName = "/home/padawan/Documents/reactapps/minim/components/ProductList.tsx";
+var _jsxFileName = "/home/alex/Documents/wcs-data/moi/wine-website/minim/components/ProductList.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement;
 
@@ -5195,10 +5195,10 @@ var assign=Object.assign.bind(Object);function g(){return assign;}Object.defineP
 
 /***/ }),
 
-/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fpadawan%2FDocuments%2Freactapps%2Fminim%2Fpages%2Findex.tsx!./":
-/*!**********************************************************************************************************************************************************************************!*\
-  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fpadawan%2FDocuments%2Freactapps%2Fminim%2Fpages%2Findex.tsx ***!
-  \**********************************************************************************************************************************************************************************/
+/***/ "./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Falex%2FDocuments%2Fwcs-data%2Fmoi%2Fwine-website%2Fminim%2Fpages%2Findex.tsx!./":
+/*!***************************************************************************************************************************************************************************************************!*\
+  !*** ./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Falex%2FDocuments%2Fwcs-data%2Fmoi%2Fwine-website%2Fminim%2Fpages%2Findex.tsx ***!
+  \***************************************************************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
@@ -9358,7 +9358,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_7__ = __webpack_require__(/*! ../styles.scss */ "./styles.scss");
 /* harmony import */ var _styles_scss__WEBPACK_IMPORTED_MODULE_7___default = /*#__PURE__*/__webpack_require__.n(_styles_scss__WEBPACK_IMPORTED_MODULE_7__);
 
-var _jsxFileName = "/home/padawan/Documents/reactapps/minim/pages/index.tsx";
+var _jsxFileName = "/home/alex/Documents/wcs-data/moi/wine-website/minim/pages/index.tsx";
 
 var __jsx = react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement;
 
@@ -9541,14 +9541,14 @@ Index.getInitialProps = function _callee() {
 
 /***/ }),
 
-/***/ 1:
-/*!**************************************************************************************************************************************!*\
-  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fpadawan%2FDocuments%2Freactapps%2Fminim%2Fpages%2Findex.tsx ***!
-  \**************************************************************************************************************************************/
+/***/ 0:
+/*!*******************************************************************************************************************************************************!*\
+  !*** multi next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Falex%2FDocuments%2Fwcs-data%2Fmoi%2Fwine-website%2Fminim%2Fpages%2Findex.tsx ***!
+  \*******************************************************************************************************************************************************/
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Fpadawan%2FDocuments%2Freactapps%2Fminim%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Fpadawan%2FDocuments%2Freactapps%2Fminim%2Fpages%2Findex.tsx!./");
+module.exports = __webpack_require__(/*! next-client-pages-loader?page=%2F&absolutePagePath=%2Fhome%2Falex%2FDocuments%2Fwcs-data%2Fmoi%2Fwine-website%2Fminim%2Fpages%2Findex.tsx! */"./node_modules/next/dist/build/webpack/loaders/next-client-pages-loader.js?page=%2F&absolutePagePath=%2Fhome%2Falex%2FDocuments%2Fwcs-data%2Fmoi%2Fwine-website%2Fminim%2Fpages%2Findex.tsx!./");
 
 
 /***/ }),
@@ -9564,5 +9564,5 @@ module.exports = dll_5f137288facb1107b491;
 
 /***/ })
 
-},[[1,"static/runtime/webpack.js","styles"]]]);
+},[[0,"static/runtime/webpack.js","styles"]]]);
 //# sourceMappingURL=index.js.map

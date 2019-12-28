@@ -5157,7 +5157,7 @@ function connect(options) {
       error.name = err.name;
       error.stack = err.stack; // __NEXT_DIST_DIR is provided by webpack
 
-      (0, _sourceMapSupport.rewriteStacktrace)(error, "/home/padawan/Documents/reactapps/minim/.next");
+      (0, _sourceMapSupport.rewriteStacktrace)(error, "/home/alex/Documents/wcs-data/moi/wine-website/minim/.next");
       return error;
     }
   };
